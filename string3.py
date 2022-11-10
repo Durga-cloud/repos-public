@@ -1,0 +1,5 @@
+name=input("what is your name ?")
+color=input("what is your fav color")
+animal=input("what is your fav animal?")
+days=input("what is your best day in week?")
+print("{}, you like {} {} {}!".format(name,color,animal,days))
